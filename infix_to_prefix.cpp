@@ -76,6 +76,4 @@ int main(){
         cout<<sol[i]<<" ";
 
     }
-    
-    
 }
