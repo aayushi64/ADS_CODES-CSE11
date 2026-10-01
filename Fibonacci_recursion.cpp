@@ -1,4 +1,4 @@
-// program for finding nth fibnocii no using recusrion and improving its run time to save stack operations
+// program for finding nth fibonacci number using recursion and improving its run time to save stack operations
 #include <bits/stdc++.h>
 using namespace std;
 
